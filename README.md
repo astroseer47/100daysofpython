@@ -24,3 +24,7 @@
 
 ## Day 5
 - Loops
+
+## Day 6
+- Functions
+- Loops
