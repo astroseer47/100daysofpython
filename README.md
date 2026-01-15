@@ -28,3 +28,6 @@
 ## Day 6
 - Functions
 - Loops
+
+## Day 7
+- hangman game program
