@@ -31,3 +31,7 @@
 
 ## Day 7
 - hangman game program
+
+## Day 8
+- Functions with parameters
+- Ceaser cipher
