@@ -18,3 +18,6 @@
 - Logical operators
 - Modulo operator
 
+## Day 4
+- Random module
+- List (array)
