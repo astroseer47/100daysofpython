@@ -21,3 +21,6 @@
 ## Day 4
 - Random module
 - List (array)
+
+## Day 5
+- Loops
