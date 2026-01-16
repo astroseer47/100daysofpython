@@ -35,3 +35,6 @@
 ## Day 8
 - Functions with parameters
 - Ceaser cipher
+
+## Day 9
+- Dictionary
