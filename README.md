@@ -38,3 +38,7 @@
 
 ## Day 9
 - Dictionary
+
+## Day 10
+- Functions with outputs
+- Docstrings
