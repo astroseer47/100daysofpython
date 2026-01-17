@@ -42,3 +42,6 @@
 ## Day 10
 - Functions with outputs
 - Docstrings
+
+## Day 11
+- blackjack game
