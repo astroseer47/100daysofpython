@@ -49,3 +49,6 @@
 ## Day 12
 - Global and Local namespaces
 - Global constants
+
+## Day 13
+- Debugging
