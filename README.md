@@ -45,3 +45,7 @@
 
 ## Day 11
 - blackjack game
+
+## Day 12
+- Global and Local namespaces
+- Global constants
