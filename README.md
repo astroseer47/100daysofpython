@@ -55,3 +55,6 @@
 
 ## Day 14
 - Guessing Chain Game
+
+## Day 15
+- Coffee Machine
