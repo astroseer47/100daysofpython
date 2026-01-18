@@ -58,3 +58,8 @@
 
 ## Day 15
 - Coffee Machine
+
+## Day 16
+- Classes and Objects
+- Turtle Class
+- PrettyTable Class
