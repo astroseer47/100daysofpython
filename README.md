@@ -68,3 +68,8 @@
 - Classes with Constructor
 - Class with attributes and methods
 - Quiz game
+
+## Day 18
+- Shapes using Turtle
+- Spirograph using Turtle
+- Spot drawing using Turtle
