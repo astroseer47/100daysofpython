@@ -73,3 +73,8 @@
 - Shapes using Turtle
 - Spirograph using Turtle
 - Spot drawing using Turtle
+
+## Day 19
+- Turtle Screen - Events
+- Etch A Sketch game
+- Turtles Race game
