@@ -78,3 +78,11 @@
 - Turtle Screen - Events
 - Etch A Sketch game
 - Turtles Race game
+
+
+## Day 20
+- Snake Game
+  - Snake class : 
+    - create snake 
+    - move snake
+    - turn snake head
