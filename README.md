@@ -86,3 +86,10 @@
     - create snake 
     - move snake
     - turn snake head
+
+## Day 21
+- Class Inheritance
+- Snake Game
+  - Food class
+  - Scoreboard class
+  - detect collision
