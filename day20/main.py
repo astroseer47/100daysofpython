@@ -1,7 +1,9 @@
-from turtle import Turtle, Screen
 import time
 
+from turtle import Screen
 from snake import Snake
+
+
 
 screen = Screen()
 screen.setup(width=600, height=600)
@@ -24,7 +26,6 @@ screen.onkey(snake.right,"Right")
 while is_game_one:
     screen.update()
     time.sleep(0.1)
-
     snake.move()
 
 
