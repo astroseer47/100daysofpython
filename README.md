@@ -93,3 +93,6 @@
   - Food class
   - Scoreboard class
   - detect collision
+
+# Day 22
+- Pong game
