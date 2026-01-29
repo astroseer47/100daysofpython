@@ -99,3 +99,6 @@
 
 # Day 23
 - Turtle crossing game
+
+# Day 24
+- Snake game - high score from file
