@@ -102,3 +102,8 @@
 
 # Day 24
 - Snake game - high score from file
+
+# Day 25
+- CSV
+- pandas
+- Guess the state game
