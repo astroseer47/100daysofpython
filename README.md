@@ -107,3 +107,8 @@
 - CSV
 - pandas
 - Guess the state game
+
+# Day 26
+- List Comprehension
+- Dictionary Comprehension
+- Phonetic Alphabets
