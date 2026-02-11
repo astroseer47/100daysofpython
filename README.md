@@ -133,3 +133,7 @@
 
 # Day 29
 - Password Manager
+
+# Day 30
+- Password Manager Improvements - Errors and Exception
+- Search Passwords
