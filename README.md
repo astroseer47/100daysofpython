@@ -102,7 +102,7 @@
 
 # Day 24
 - Snake game - high score from file
-
+ 
 # Day 25
 - CSV
 - pandas
@@ -119,7 +119,7 @@
   - Label
   - Button
   - Entry - input
-  - Text entry box
+  - Text entry box 
   - Spinbox
   - Scale
   - Checkbox
@@ -127,3 +127,6 @@
   - Select
   - Pack, Place, Grid
   - Miles to KM Converter
+
+# Day 28
+- Pomodoro Timer
