@@ -140,3 +140,8 @@
 
 # Day 31
 - Flash Cards game
+
+# Day 32
+- SMTP
+- datetime
+- Birthday Emails
