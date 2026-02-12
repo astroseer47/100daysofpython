@@ -137,3 +137,6 @@
 # Day 30
 - Password Manager Improvements - Errors and Exception
 - Search Passwords
+
+# Day 31
+- Flash Cards game
