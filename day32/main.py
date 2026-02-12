@@ -30,14 +30,17 @@ if day_of_week == 0:
     send_quote()
 
 
-data = pandas.read_csv('birthdays.csv')
-dict_data  = data.to_dict('records')
+try:
+    data = pandas.read_csv('birthdays.csv')
+    dict_data  = data.to_dict('records')
 
-current_month = dt.datetime.today().month
-current_day = dt.datetime.today().day
+    current_month = dt.datetime.today().month
+    current_day = dt.datetime.today().day
 
-for d in dict_data:
-    if d['month'] == current_month and d['day'] == current_day:
-        send_quote(to_name=d['name'], to_address=d['email'], subject="Happy Birthday!")
+    for d in dict_data:
+        if d['month'] == current_month and d['day'] == current_day:
+            send_quote(to_name=d['name'], to_address=d['email'], subject="Happy Birthday!")
 
-print(dict_data)
+    print(dict_data)
+except:
+    print("Error")
