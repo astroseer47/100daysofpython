@@ -172,3 +172,6 @@
 
 # Day 39
 - API Project setup
+
+# Day 40
+- HTML
