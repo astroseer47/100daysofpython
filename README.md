@@ -196,3 +196,6 @@
 # Day 45
 - beautiful-soup
 - web-scraping
+
+# Day 46
+- more on web-scraping
