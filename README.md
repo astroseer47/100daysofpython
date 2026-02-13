@@ -169,3 +169,6 @@
 
 # Day 38
 - More on API Calls
+
+# Day 39
+- API Project setup
