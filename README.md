@@ -185,3 +185,7 @@
 - list element
 - anchor element
 - image element
+
+# Day 43
+- CSS
+- CSS Projects
