@@ -174,4 +174,14 @@
 - API Project setup
 
 # Day 40
-- HTML
+- API Project
+
+# Day 41
+- HTML Intro
+- p tag
+
+# Day 42
+- HTML boilerplate
+- list element
+- anchor element
+- image element
