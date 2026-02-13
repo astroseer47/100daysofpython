@@ -161,3 +161,8 @@
 # Day 36
 - Stock API
 - News API
+
+# Day 37
+- POST API
+- PUT API
+- DELETE API
