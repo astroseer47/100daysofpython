@@ -152,3 +152,8 @@
 
 # Day 34
 - Quiz Interface
+
+# Day 35
+- API Authentication
+- twilio
+- using ENV variables
