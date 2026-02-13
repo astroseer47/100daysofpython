@@ -192,3 +192,7 @@
 
 # Day 44
 - More on CSS
+
+# Day 45
+- beautiful-soup
+- web-scraping
