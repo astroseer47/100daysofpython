@@ -189,3 +189,6 @@
 # Day 43
 - CSS
 - CSS Projects
+
+# Day 44
+- More on CSS
