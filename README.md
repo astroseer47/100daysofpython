@@ -157,3 +157,7 @@
 - API Authentication
 - twilio
 - using ENV variables
+
+# Day 36
+- Stock API
+- News API
