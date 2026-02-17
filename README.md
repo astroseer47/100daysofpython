@@ -199,3 +199,9 @@
 
 # Day 46
 - more on web-scraping
+
+# Day 47
+- more on web-scraping
+
+# Day 48
+- Selenium Automation
