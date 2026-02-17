@@ -204,11 +204,14 @@
 - more on web-scraping
 
 # Day 48
-- Selenium Automation
+- Selenium Automation        
 
-# Day 49 to Day 71
+# Day 49 to Day 100
 - More on Selenium Automation
 - Flask
 - Webapp
 - Webapp deployments
 - Git
+- Data analysis
+- Data visualization
+- Assignments
