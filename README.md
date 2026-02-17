@@ -205,3 +205,10 @@
 
 # Day 48
 - Selenium Automation
+
+# Day 49 to Day 71
+- More on Selenium Automation
+- Flask
+- Webapp
+- Webapp deployments
+- Git
